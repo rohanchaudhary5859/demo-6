@@ -1,0 +1,125 @@
+body {
+    --themecolor: #141233;
+    --button-color: #ffffff;
+    --anchor-color: #3377FF;
+    --themecoloropacity: #43415c;
+}
+
+.wr-content-box-layout-3 .wr-highlighted-text {
+    background: #141233;
+}
+
+.wt-searchbtn {
+    background: #141233;
+}
+
+.wr-freelancer-header-content > li {
+    color: #141233;
+	background: rgb(11 185 144 / 10%);
+}
+
+.wr-secondary-btn:hover,
+.wr-secondary-btn:focus{
+    color: #fff;
+    border-color: #141233;
+    background-color: #141233;
+}
+
+.wr-secondary-btn::before {
+    background: #141233;
+}
+
+.wr-info-box-wrapper .wr-subtitle{
+    color: #141233;
+}
+.wr-button-wrapper .wr-primary-btn{
+	background:#141233;
+}
+.wr-button-wrapper .wr-primary-btn:hover{
+	background:#43415c;
+}
+
+.wr_popular .wr-most-popular-tag {
+    background: #141233;
+ }
+
+.wr_popular {
+    border: 2px solid #141233;
+}
+
+.wr-package-item .wr-pricing__content:hover .wr-secondary-btn {
+    background: #141233;
+}
+.wr-content-box-wrapper .wr-subtitle{
+	color: #141233;
+}
+.wr-package-item .wr-pricing__content.wr_popular .wr-btnv2.wr-btn {
+    background: #141233;
+}
+
+
+.wr-navbarbtn .wr-btn-solid-lg, .wr-navbarbtn .wr-btn-solid-lg-lefticon {
+    background: #141233 !important;
+    border-color: #141233 !important;
+}
+.wr-background-primary {
+    background: #141233;
+}
+.wr-header-transparent .wr-navbarbtn .wr-btn-solid-lg:hover{
+	background: #141233 !important;
+    border-color: #141233 !important;
+}
+.wr-content-box-layout-1 .wr-title .wr-highlighted-text::after{
+	background-color: #141233;
+}
+.wr-freelancers-grid-item:hover .wr-secondary-btn {
+    background: #141233;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-primary-btn {
+    border-color: #141233;
+	background: #141233;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-primary-btn:hover {
+    border-color: #43415c;
+	background: #141233;
+}
+.wr-heroslider_content .wr-title .wr-highlighted-text::after{
+	background: #141233;
+}
+.wr-info-box-wrapper .wr-title .wr-highlighted-text::after{
+	background: #141233;
+}
+.wr-feedback-slider-description svg path:nth-child(1){
+	fill:#141233;
+}
+.wr-content-box-layout-2 .wr-highlighted-text::after{
+	background: #141233;
+}
+.wr-dual-button-wrapper .wr-primary-btn{
+	background: #141233;
+	border-color: #141233;
+}
+.wr-dual-button-wrapper .wr-btn:hover{
+	background: #43415c;
+	border-color: #43415c;
+}
+.wr-image-slider .elementor-widget-container::after{
+	background: conic-gradient(from calc(var(--angle) + var(--start-angle)), transparent 0, #141233 40%, transparent 45%);
+}
+header .wr-dropdowarrow{
+	background: #141233;
+}
+.wr-projects-grid-item .wr-projects-grid-footer .wr-secondary-btn:focus{
+	background:#141233;
+}
+.elementor-7275 .elementor-element.elementor-element-7df279f .wr-content-box-wrapper .wr-subtitle,
+.elementor-7171 .elementor-element.elementor-element-3c8d65b .wr-content-box-wrapper .wr-subtitle{
+	color: #fff;
+}
+.wr-header.wr-header-menu-white .wr-theme-logo-svg .wr-logo-icon{
+	fill: #fff;
+}
+.elementor-7275 .elementor-element.elementor-element-1efefbd .wr-dual-button-wrapper .wr-secondary-btn:focus,
+.elementor-7275 .elementor-element.elementor-element-1efefbd .wr-dual-button-wrapper .wr-secondary-btn:hover{
+	background: #141233;
+}
